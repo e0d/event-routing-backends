@@ -19,3 +19,4 @@ diff-cover==4.0.0
 
 # greater version failing docs build
 sphinx==4.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
